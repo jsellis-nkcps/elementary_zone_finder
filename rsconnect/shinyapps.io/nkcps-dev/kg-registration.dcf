@@ -1,0 +1,13 @@
+name: kg-registration
+title: kg-registration
+username:
+account: nkcps-dev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5627574
+bundleId: 6134826
+url: https://nkcps-dev.shinyapps.io/kg-registration/
+when: 1658848535.53847
+lastSyncTime: 1658848535.53849
+asMultiple: FALSE
+asStatic: FALSE
